@@ -24,6 +24,8 @@ nextflow run hello.nf
 
 # Tadaaa!
 
+NOTE: Only the output of the last statement i.e. `hello.R` is shown.
+
 ```
 [c8/3429e7] process > foo [100%] 1 of 1 ✔
 
